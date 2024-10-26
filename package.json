@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "scss": "node-sass -w scss/main.scss -o css/ -r --output-style compressed"
+  
+    
   },
   "keywords": [],
   "author": "",
